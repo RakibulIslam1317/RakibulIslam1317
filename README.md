@@ -12,7 +12,7 @@ _### **portfolio html code**_
     <header>
 
         <div class="container">
-            <h1 style="color:rgb(218, 247, 230);font-size:50px">Rakibul Islam </h1>
+            <h1 style="color:rgb(218, 247, 230);font-size:30px">Rakibul Islam </h1>
             
             <nav>
                 <ul>
@@ -264,7 +264,7 @@ _### **portfolio html code**_
 
 
 
-css code
+CSS CODE
 
 * {
     margin: 0;
@@ -283,7 +283,7 @@ body {
     max-width: 960px;
     margin: 0 auto;
     padding: 30px;
-    font-size:25px;
+    font-size:20px;
 }
 
 header {
@@ -350,6 +350,7 @@ footer {
     bottom: 0%;
     width: 100%;
 }
+
 
 
 
