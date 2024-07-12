@@ -264,7 +264,7 @@ _### **portfolio html code**_
 
 
 
-CSS CODE
+CSS CODE:
 
 * {
     margin: 0;
